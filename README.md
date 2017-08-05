@@ -2,7 +2,7 @@
 
 This is my first time using the Bootstrap Framework
 
-# Check it Out
+## Check it Out
 View my Bootstrap Page [Here](https://kimjaydot.github.io/Bootstrap-Portfolio)
 
 ## Technologies Used
