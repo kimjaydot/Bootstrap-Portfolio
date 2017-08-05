@@ -1,5 +1,13 @@
 # Bootstrap-Portfolio
 
-[Bootstrap-Portfolio](https://kimjaydot.github.io/Bootstrap-Portfolio)
+This is my first time using the Bootstrap Framework
 
-This is my first time using Bootstrap.
+# Check it Out
+View my Bootstrap Page[Here](https://kimjaydot.github.io/Bootstrap-Portfolio)
+
+## Technologies Used
+* HTML5
+* CSS3
+* Bootstrap
+
+
